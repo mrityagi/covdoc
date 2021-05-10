@@ -8,4 +8,6 @@
 - Clone our repo and cd into it.
 - run `flutter pub get`.
 - run `flutter run` after connecting your mobile device by USB
-- try various features of our app!
+- try various features of our app.
+
+### Screenshots
