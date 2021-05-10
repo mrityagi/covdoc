@@ -16,3 +16,21 @@
 - try various features of our app.
 
 ### Screenshots
+
+- **Make Video Calls**
+- ![democall](covdoc-ss/democall.png)
+
+- **View free slots**
+- ![slots](covdoc-ss/videoslots.jpg)
+
+- **Book Appointments**
+- ![appointment](covdoc-ss/appointment.jpg)
+
+- **Clutter-free UI/UX**
+- ![drawer](covdoc-ss/drawer.jpg)
+
+- **View pending prescriptions**
+- ![appointment](covdoc-ss/AddPrescribe.jpg)
+
+- **Scan Qr-Codes**
+- ![qr](covdoc-ss/qrcode.jpg)
